@@ -124,7 +124,7 @@ Primary data collected via structured questionnaire distributed through WhatsApp
 
 ├── Capstone.ipynb                          # Main notebook — EDA, modelling, evaluation
 ├── survey_data.csv                         # Raw survey responses (295 rows, 33 columns)
-├── Harshit_Saraf_Capstone_Project.pdf      # Full project report
+├── Project Report.pdf      # Full project report
 ├── assets/
 │   ├── model_scorecard.png
 │   ├── feature_importance.png
